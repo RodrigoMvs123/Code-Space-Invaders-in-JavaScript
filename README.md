@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=s6LrpUTQQn0
 
 https://raw.githubusercontent.com/RodrigoMvs123/Code-Space-Invaders-in-JavaScript/main/README.md
 
+https://github.com/RodrigoMvs123/Code-Space-Invaders-in-JavaScript/blame/main/README.md
+
 Visual Studio Code
 Explorer 
 Open Editors 
