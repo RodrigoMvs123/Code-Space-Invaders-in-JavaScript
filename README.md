@@ -1,4 +1,4 @@
-# Code-Space-Invaders-in-JavaScript
+## Code-Space-Invaders-in-JavaScript
 
 https://www.youtube.com/watch?v=s6LrpUTQQn0 
 
@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/RodrigoMvs123/Code-Space-Invaders-in-JavaScrip
 
 https://github.com/RodrigoMvs123/Code-Space-Invaders-in-JavaScript/blame/main/README.md
 
+
+## Source Code
+```javscript
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -13,7 +16,9 @@ index.html
 app.js
 
 app.js
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors
@@ -34,7 +39,9 @@ index.html
     <script src="app.js"></script>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -43,7 +50,9 @@ app.js
 style.css
 
 style.css
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -66,7 +75,9 @@ index.html
     <script src="app.js"></script>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -80,7 +91,9 @@ style.css
     height: 300px;
     border: solid 1px black;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -97,7 +110,9 @@ for (let i = 0; i < width * width; i++) {
     const square = document.createElement('div')
     grid.appendChild(square)
 }
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -118,7 +133,9 @@ style.css
     width: 20px;
     height: 20px;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -153,7 +170,9 @@ function draw() {
 }
 
 draw()
+```
 
+```css
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -191,7 +210,9 @@ style.css
 .boom {
     background-color: red;
 }
+```
 
+```javascript
 Visual Studio Code
 Explorer 
 Open Editors 
@@ -329,14 +350,5 @@ function shoot(e) {
 }
 
 document.addEventListener('keydown', shoot)
-
-
-
-
-
-
-
-
-
-
+```
 
